@@ -9,7 +9,7 @@
       label-position="left"
     >
       <div class="title-container">
-        <h3 class="title">尚融宝管理平台</h3>
+        <h3 class="title">back-end management platform</h3>
       </div>
 
       <el-form-item prop="username">
@@ -55,7 +55,7 @@
         style="width:100%;margin-bottom:30px;"
         @click.native.prevent="handleLogin"
       >
-        登录
+        Log in
       </el-button>
     </el-form>
   </div>
